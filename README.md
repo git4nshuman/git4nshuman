@@ -72,4 +72,4 @@ Study tracker + performance analyzer
 
 ## 🧠 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git4nshuman&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git4nshuman&layout=compact)
