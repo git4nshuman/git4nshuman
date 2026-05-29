@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tenseroid&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=git4nshuman&fontSize=40&fontColor=ffffff" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Builder-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FullStack-Developer-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Student-Developer-orange?style=for-the-badge"/>
+</p>`
 
 # Hey, I'm git4nshuman
 
@@ -24,26 +29,18 @@ Building AI-powered web systems and educational platforms.
 
 ---
 
-## Featured Projects
+<p align="center">
 
-### 🚀 AI Education Game Platform
-A large-scale platform with interactive games for Class 11–12 students  
-- 100+ planned games (scalable architecture)
-- AI-based question generation & feedback
-- XP, streaks, and leaderboard system
-- Live deployment with modular design
+### 🤖 AI Education Platform  
+AI-powered learning system with XP, streaks, and games
 
-### 🤖 Nova AI Chatbot
-Personal AI assistant with custom UI and API integration  
-- Fast response system
-- Lightweight frontend
-- Deployed on Vercel
+### 🧠 Nova AI  
+Smart chatbot with API-driven responses
 
-### 📊 JEE Dashboard System
-Study tracker + performance analyzer  
-- Progress tracking
-- Chapter-wise planning
-- Minimal UI for focus-based studying
+### 📊 Study Dashboard  
+Minimal productivity + tracking system
+
+</p>
 
 ---
 
