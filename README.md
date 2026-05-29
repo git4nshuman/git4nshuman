@@ -62,3 +62,7 @@ Study tracker + performance analyzer
 ## Contact
 - GitHub: https://github.com/git4nshuman
 - Email: anshumanpoonam07@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
