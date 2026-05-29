@@ -69,3 +69,7 @@ Study tracker + performance analyzer
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=git4nshuman&theme=tokyonight)
+
+## 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git4nshuman&layout=compact&theme=tokyonight)
