@@ -67,4 +67,6 @@ Study tracker + performance analyzer
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git4nshuman&show_icons=true&cache_seconds=1800)
