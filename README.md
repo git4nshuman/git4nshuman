@@ -64,8 +64,7 @@ Study tracker + performance analyzer
 - Email: anshumanpoonam07@gmail.com
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git4nshuman&show_icons=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=git4nshuman&show_icons=true)
 
 ## 🔥 GitHub Streak
 
