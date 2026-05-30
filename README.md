@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=git4nshuman&fontSize=40&fontColor=ffffff" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Builder-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FullStack-Developer-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Student-Developer-orange?style=for-the-badge"/>
-</p>`
 
 # Hey, I'm git4nshuman
 
